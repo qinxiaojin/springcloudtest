@@ -1,0 +1,11 @@
+server:
+  port: 8703 #服务提供方的负载
+#注册服务
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8700/eureka,http://localhost:8698/eureka,http://localhost:8697/eureka
+#服务名称
+spring:
+  application:
+    name: eureka-servicecopy

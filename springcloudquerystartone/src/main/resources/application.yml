@@ -1,0 +1,41 @@
+server:
+  port: 8700
+#指定当前eureka客户端的注册地址，也就是eureka服务的提供方，
+#当前配置的服务的注册服务方
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8700/eureka
+    #由于自己就是服务器，不需要注册到自己
+    register-with-eureka: false #自身不在向eureka注册
+    #由于自己就是服务器，不需要从服务器获取注册信息
+    fetch-registry: false #启用时禁用client的注册
+#  instance:
+#    hostname: localhost
+#指定应用名称
+spring:
+  application:
+    name: eureka-server
+  datasource:
+    platform: oracle
+    driver-class-name: oracle.jdbc.OracleDriver
+    url: jdbc:oracle:thin:@localhost:1521:orcl
+    username: qinxiaojin
+    password: root
+mybatis-plus:
+  configuration:
+    map-underscore-to-camel-case: true
+    auto-mapping-behavior: full
+    log-impl: org.apache.ibatis.logging.stdout.StdOutImpl
+  mapper-locations: classpath*:mapper/**/*Mapper.xml
+  global-config:
+    # 逻辑删除配置
+    db-config:
+      # 删除前
+      logic-not-delete-value: 1
+      # 删除后
+      logic-delete-value: 0
+logging:
+  level:
+    root: info
+    com.example: debug

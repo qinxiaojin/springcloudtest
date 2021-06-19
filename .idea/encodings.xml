@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" addBOMForNewFiles="with NO BOM">
+    <file url="file://$PROJECT_DIR$/springcloudquerystartone" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloudquerystartthree" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloudquerystarttwo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloudquerystarttwocopy" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/study-redis-springboot" charset="UTF-8" />
+  </component>
+</project>

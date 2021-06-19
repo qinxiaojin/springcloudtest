@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/jedisstudy/jedisstudy.iml" filepath="$PROJECT_DIR$/jedisstudy/jedisstudy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloudquerystartone/springcloudquerystartone.iml" filepath="$PROJECT_DIR$/springcloudquerystartone/springcloudquerystartone.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloudquerystartthree/springcloudquerystartthree.iml" filepath="$PROJECT_DIR$/springcloudquerystartthree/springcloudquerystartthree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloudquerystarttwo/springcloudquerystarttwo.iml" filepath="$PROJECT_DIR$/springcloudquerystarttwo/springcloudquerystarttwo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloudquerystarttwocopy/springcloudquerystarttwocopy.iml" filepath="$PROJECT_DIR$/springcloudquerystarttwocopy/springcloudquerystarttwocopy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/study-redis-springboot/study-redis-springboot.iml" filepath="$PROJECT_DIR$/study-redis-springboot/study-redis-springboot.iml" />
+    </modules>
+  </component>
+</project>

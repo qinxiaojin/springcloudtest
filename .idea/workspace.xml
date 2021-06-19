@@ -1,0 +1,1172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ccbe81d0-87d2-4993-a0b5-ebe9ae99b34c" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/springcloudquerystartone/target/" />
+    <ignored path="$PROJECT_DIR$/springcloudquerystarttwo/target/" />
+    <ignored path="$PROJECT_DIR$/springcloudquerystartthree/target/" />
+    <ignored path="$PROJECT_DIR$/springcloudquerystarttwocopy/target/" />
+    <ignored path="$PROJECT_DIR$/jedisstudy/target/" />
+    <ignored path="$PROJECT_DIR$/study-redis-springboot/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="QINXIAOJIN: schema" type="3abd1b6a:OraImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="QINXIAOJIN: schema" type="3abd1b6a:OraImplModel$Schema" />
+        <item name="tables" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="QINXIAOJIN: schema" type="3abd1b6a:OraImplModel$Schema" />
+        <item name="tables" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="TEST: table" type="942f455b:OraImplModel$Table" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/springcloudquerystartone/src/main/java/com/boco/AppServer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#535#536#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/springcloudquerystartone/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2940">
+              <caret line="98" column="29" selection-start-line="98" selection-start-column="29" selection-end-line="98" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/springcloudquerystartone/src/main/java/com/boco/entity/Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="10" column="33" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/springcloudquerystartone/src/test/java/com/boco/AppServerTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1170">
+              <caret line="54" column="13" selection-start-line="54" selection-start-column="13" selection-end-line="54" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/jedisstudy/src/main/java/com/boco/ui/service/OracleTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="284">
+              <caret line="15" column="31" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/springcloudquerystartone/src/main/java/com/boco/utils/XLSXTable.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="2" column="45" selection-start-line="2" selection-start-column="45" selection-end-line="2" selection-end-column="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/springcloudquerystartone/src/main/java/com/boco/controller/TestController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="510">
+              <caret line="25" column="24" selection-start-line="25" selection-start-column="24" selection-end-line="25" selection-end-column="24" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/springcloudquerystartone/src/main/java/com/boco/server/TestServer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="7" column="27" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="spring-beans.schema" />
+        <option value="Tag Library Descriptor" />
+        <option value="FxmlFile" />
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/springcloudquerystarttwo/src/main/java/com/boco/controller/Apple.java" />
+        <option value="$PROJECT_DIR$/springcloudquerystarttwo/src/main/java/com/boco/App.java" />
+        <option value="$PROJECT_DIR$/springcloudquerystartone/src/main/java/com/boco/EurekaServerApp.java" />
+        <option value="$PROJECT_DIR$/springcloudquerystartone/src/main/java/com/boco/App.java" />
+        <option value="$PROJECT_DIR$/springcloudquerystartthree/src/main/java/com/boco/bean/Beans.java" />
+        <option value="$PROJECT_DIR$/springcloudquerystartthree/src/main/java/com/boco/App.java" />
+        <option value="$PROJECT_DIR$/springcloudquerystartthree/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloudquerystarttwocopy/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloudquerystarttwocopy/src/main/java/com/boco/AppServiceCopy.java" />
+        <option value="$PROJECT_DIR$/springcloudquerystartthree/src/main/java/com/boco/controller/Consumption.java" />
+        <option value="$PROJECT_DIR$/springcloudquerystarttwocopy/src/main/java/com/boco/controller/AppleCopy.java" />
+        <option value="$PROJECT_DIR$/springcloudquerystarttwo/src/main/java/com/boco/AppService.java" />
+        <option value="$PROJECT_DIR$/springcloudquerystarttwo/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/springcloudquerystarttwo/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloudquerystarttwocopy/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/springcloudquerystartthree/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/springcloudquerystartthree/src/main/java/com/boco/AppConsumer.java" />
+        <option value="$PROJECT_DIR$/jedisstudy/src/main/java/com/boco/ui/TestJedis.java" />
+        <option value="$PROJECT_DIR$/study-redis-springboot/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/study-redis-springboot/pom.xml" />
+        <option value="$PROJECT_DIR$/study-redis-springboot/src/main/java/com/boco/studyredisspringboot/pojo/User.java" />
+        <option value="$PROJECT_DIR$/study-redis-springboot/src/main/java/com/boco/studyredisspringboot/conf/RedisConfig.java" />
+        <option value="$PROJECT_DIR$/study-redis-springboot/src/test/java/com/boco/studyredisspringboot/StudyRedisSpringbootApplicationTests.java" />
+        <option value="$PROJECT_DIR$/jedisstudy/src/main/resources/mysqlconnect.fxml" />
+        <option value="$PROJECT_DIR$/jedisstudy/src/main/java/com/boco/ui/dao/MysqlConnect.java" />
+        <option value="$PROJECT_DIR$/jedisstudy/src/main/java/com/boco/ui/daoImpl/MysqlTest.java" />
+        <option value="$PROJECT_DIR$/jedisstudy/src/main/java/com/boco/ui/daoImpl/MysqlDao.xml" />
+        <option value="$PROJECT_DIR$/jedisstudy/src/main/java/com/boco/ui/service/MysqlDao.xml" />
+        <option value="$PROJECT_DIR$/jedisstudy/src/main/java/com/boco/ui/pojo/Tuser.java" />
+        <option value="$PROJECT_DIR$/jedisstudy/src/main/java/com/boco/ui/mapper/MapperMysql.java" />
+        <option value="$PROJECT_DIR$/jedisstudy/src/main/java/com/boco/ui/service/MysqlTest.java" />
+        <option value="$PROJECT_DIR$/jedisstudy/pom.xml" />
+        <option value="$PROJECT_DIR$/jedisstudy/src/main/java/com/boco/ui/mapper/MysqlDao.xml" />
+        <option value="$PROJECT_DIR$/jedisstudy/src/main/resources/mysqlconnect.xml" />
+        <option value="$PROJECT_DIR$/jedisstudy/src/main/resources/oracleconner.xml" />
+        <option value="$PROJECT_DIR$/jedisstudy/src/main/java/com/boco/ui/pojo/Test.java" />
+        <option value="$PROJECT_DIR$/jedisstudy/src/main/java/com/boco/ui/dao/OracleConnect.java" />
+        <option value="$PROJECT_DIR$/jedisstudy/src/main/java/com/boco/ui/mapper/OracleMapper.fxml" />
+        <option value="$PROJECT_DIR$/jedisstudy/src/main/java/com/boco/ui/mapper/OracleMapper.xml" />
+        <option value="$PROJECT_DIR$/jedisstudy/src/main/resources/oracleconnect.xml" />
+        <option value="$PROJECT_DIR$/springcloudquerystartone/src/main/java/com/boco/AppServer.java" />
+        <option value="$PROJECT_DIR$/springcloudquerystartone/src/main/java/com/boco/utils/JWTUtils.java" />
+        <option value="$PROJECT_DIR$/springcloudquerystartone/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/springcloudquerystartone/src/main/java/com/boco/server/TestServer.java" />
+        <option value="$PROJECT_DIR$/springcloudquerystartone/src/main/java/com/boco/controller/TestController.java" />
+        <option value="$PROJECT_DIR$/springcloudquerystartone/src/main/java/com/boco/entity/Test.java" />
+        <option value="$PROJECT_DIR$/springcloudquerystartone/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloudquerystartone/src/test/java/com/boco/AppServerTest.java" />
+        <option value="$PROJECT_DIR$/jedisstudy/src/main/java/com/boco/ui/service/OracleTest.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="C:\class207\repository" />
+        <option name="mavenHome" value="C:/class207/apache-maven-3.5.0-bin/apache-maven-3.5.0" />
+        <option name="userSettingsFile" value="C:\class207\apache-maven-3.5.0-bin\apache-maven-3.5.0\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="springcloud-querystartone" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="springcloud-querystartone" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-12" />
+    <option name="y" value="-12" />
+    <option name="width" value="1944" />
+    <option name="height" value="1104" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="springcloudtestone" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jedisstudy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springcloudtestone" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jedisstudy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springcloudtestone" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jedisstudy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springcloudtestone" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jedisstudy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springcloudtestone" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jedisstudy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ui" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springcloudtestone" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jedisstudy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ui" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springcloudtestone" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jedisstudy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql&#10;oracle" />
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1623760604959" />
+    <property name="database.console.LAST_STATE" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="E:/frontDesk" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.repository.indices" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\springcloudtestone\jedisstudy\src\main\java\com\boco\ui\mapper" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.OracleTest">
+    <configuration name="AppServerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.boco.AppServerTest" />
+      <module name="springcloudquerystartone" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.boco.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OracleTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.boco.ui.service.OracleTest" />
+      <module name="jedisstudy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.boco.ui.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AppServerTest.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springcloudquerystartone" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.boco.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.boco" />
+      <option name="MAIN_CLASS_NAME" value="com.boco.AppServerTest" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AppServerTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springcloudquerystartone" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.boco.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.boco" />
+      <option name="MAIN_CLASS_NAME" value="com.boco.AppServerTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AppServerTest.tt" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springcloudquerystartone" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.boco.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.boco" />
+      <option name="MAIN_CLASS_NAME" value="com.boco.AppServerTest" />
+      <option name="METHOD_NAME" value="tt" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AppServer" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="springcloudquerystartone" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.boco.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.boco.AppServer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StudyRedisSpringbootApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="study-redis-springboot" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.boco.studyredisspringboot.StudyRedisSpringbootApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.AppServerTest" />
+      <item itemvalue="Application.OracleTest" />
+      <item itemvalue="JUnit.AppServerTest.contextLoads" />
+      <item itemvalue="JUnit.AppServerTest.test" />
+      <item itemvalue="JUnit.AppServerTest.tt" />
+      <item itemvalue="Spring Boot.AppServer" />
+      <item itemvalue="Spring Boot.StudyRedisSpringbootApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.OracleTest" />
+        <item itemvalue="Application.AppServerTest" />
+        <item itemvalue="JUnit.AppServerTest.tt" />
+        <item itemvalue="JUnit.AppServerTest.test" />
+        <item itemvalue="JUnit.AppServerTest.contextLoads" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ccbe81d0-87d2-4993-a0b5-ebe9ae99b34c" name="Default Changelist" comment="" />
+      <created>1614135589996</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1614135589996</updated>
+      <workItem from="1614135597935" duration="8502000" />
+      <workItem from="1614150457441" duration="292000" />
+      <workItem from="1614150846694" duration="301000" />
+      <workItem from="1614151203678" duration="8728000" />
+      <workItem from="1614215966047" duration="5127000" />
+      <workItem from="1614302755219" duration="7861000" />
+      <workItem from="1614326468303" duration="4941000" />
+      <workItem from="1614418862046" duration="32000" />
+      <workItem from="1615533651450" duration="651000" />
+      <workItem from="1615768227097" duration="628000" />
+      <workItem from="1617846318975" duration="673000" />
+      <workItem from="1617952386183" duration="1647000" />
+      <workItem from="1618401853348" duration="19519000" />
+      <workItem from="1618912275832" duration="697000" />
+      <workItem from="1619150183520" duration="596000" />
+      <workItem from="1619167476314" duration="8135000" />
+      <workItem from="1621145548588" duration="2478000" />
+      <workItem from="1621677918287" duration="7745000" />
+      <workItem from="1621823688005" duration="780000" />
+      <workItem from="1622190699633" duration="1487000" />
+      <workItem from="1622359357631" duration="7371000" />
+      <workItem from="1623722984248" duration="1260000" />
+      <workItem from="1623811290487" duration="48000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="StudyRedisSpringbootApplicationTests_test - 2021.04.15 at 20h 32m 15s.xml">
+      <configuration name="StudyRedisSpringbootApplicationTests.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StudyRedisSpringbootApplicationTests_tttest - 2021.04.15 at 20h 37m 23s.xml">
+      <configuration name="StudyRedisSpringbootApplicationTests.tttest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StudyRedisSpringbootApplicationTests_tttest - 2021.04.15 at 20h 38m 21s.xml">
+      <configuration name="StudyRedisSpringbootApplicationTests.tttest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StudyRedisSpringbootApplicationTests_tttest - 2021.04.15 at 20h 38m 53s.xml">
+      <configuration name="StudyRedisSpringbootApplicationTests.tttest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StudyRedisSpringbootApplicationTests_contextLoads - 2021.04.16 at 10h 48m 00s.xml">
+      <configuration name="StudyRedisSpringbootApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StudyRedisSpringbootApplicationTests_contextLoads - 2021.04.17 at 10h 58m 47s.xml">
+      <configuration name="StudyRedisSpringbootApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AppServerTest_contextLoads - 2021.05.22 at 19h 22m 20s.xml">
+      <configuration name="AppServerTest.contextLoads" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AppServerTest_contextLoads - 2021.05.22 at 19h 26m 40s.xml">
+      <configuration name="AppServerTest.contextLoads" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AppServerTest_test - 2021.05.22 at 19h 27m 03s.xml">
+      <configuration name="AppServerTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AppServerTest_tt - 2021.05.24 at 10h 37m 46s.xml">
+      <configuration name="AppServerTest.tt" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="89499000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="735" extended-state="6" />
+    <layout>
+      <window_info id="Structure" order="0" side_tool="true" weight="0.2489895" />
+      <window_info id="Image Layers" order="1" />
+      <window_info id="Designer" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" weight="0.2965578" />
+      <window_info content_ui="combo" id="Project" order="6" visible="true" weight="0.23686337" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.49337748" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.4602649" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.34602648" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3289225" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3289225" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50091743" side_tool="true" weight="0.17218544" />
+      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.49908257" weight="0.25496688" />
+      <window_info anchor="bottom" id="Spring" order="13" />
+      <window_info anchor="bottom" id="Java Enterprise" order="14" />
+      <window_info anchor="bottom" id="Database Console" order="15" weight="0.3294702" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24574669" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" visible="true" weight="0.024252223" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" weight="0.22150365" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Coverage" order="9" side_tool="true" weight="0.27728376" />
+      <window_info anchor="right" id="Bean Validation" order="10" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Structure" order="0" side_tool="true" weight="0.2489895" />
+      <window_info id="Image Layers" order="1" />
+      <window_info id="Designer" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" weight="0.2965578" />
+      <window_info content_ui="combo" id="Project" order="6" visible="true" weight="0.25949878" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.49337748" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.23509933" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.049668875" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3289225" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3289225" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50091743" side_tool="true" visible="true" weight="0.17218544" />
+      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.49908257" weight="0.42218542" />
+      <window_info anchor="bottom" id="Spring" order="13" />
+      <window_info anchor="bottom" id="Java Enterprise" order="14" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24574669" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" weight="0.19805983" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info active="true" anchor="right" id="Maven" order="6" visible="true" weight="0.17946646" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Coverage" order="9" side_tool="true" weight="0.27728376" />
+      <window_info anchor="right" id="Bean Validation" order="10" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/springcloudquerystartone/src/main/java/com/boco/controller/TestController.java</url>
+          <line>18</line>
+          <properties />
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/springcloudquerystartone/src/main/java/com/boco/controller/TestController.java</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/springcloudquerystartone/src/main/java/com/boco/controller/TestController.java</url>
+          <line>20</line>
+          <properties />
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/springcloudquerystartone/src/main/java/com/boco/controller/TestController.java</url>
+          <line>21</line>
+          <properties />
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/study-redis-springboot/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/study-redis-springboot/src/main/java/com/boco/studyredisspringboot/conf/RedisConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="17" column="44" selection-start-line="17" selection-start-column="44" selection-end-line="17" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/study-redis-springboot/src/main/java/com/boco/studyredisspringboot/pojo/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="13" column="41" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/study-redis-springboot/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="22" column="52" selection-start-line="22" selection-start-column="52" selection-end-line="22" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-data-redis/2.4.4/spring-boot-starter-data-redis-2.4.4.pom">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/study-redis-springboot/src/test/java/com/boco/studyredisspringboot/StudyRedisSpringbootApplicationTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="271">
+          <caret line="54" column="33" selection-start-line="54" selection-start-column="33" selection-end-line="54" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$MAVEN_REPOSITORY$/jp/dodododo/samurai-dao-dialect-mysql-5/1.2.0-RC1/samurai-dao-dialect-mysql-5-1.2.0-RC1.pom">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="8" column="33" lean-forward="true" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jedisstudy/src/main/java/com/boco/ui/mapper/MapperUser.java" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/4a294f60-3c87-4591-8b1a-035d3b5063dd/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jedisstudy/src/main/java/com/boco/ui/TestJedis.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="840">
+          <caret line="28" column="47" selection-start-line="28" selection-start-column="47" selection-end-line="28" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jedisstudy/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="46" column="33" lean-forward="true" selection-start-line="46" selection-start-column="33" selection-end-line="46" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jedisstudy/src/main/java/com/boco/ui/pojo/Tuser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-150">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+          <folding>
+            <element signature="e#132#133#0" expanded="true" />
+            <element signature="e#151#152#0" expanded="true" />
+            <element signature="e#182#183#0" expanded="true" />
+            <element signature="e#204#205#0" expanded="true" />
+            <element signature="e#234#235#0" expanded="true" />
+            <element signature="e#255#256#0" expanded="true" />
+            <element signature="e#293#294#0" expanded="true" />
+            <element signature="e#319#320#0" expanded="true" />
+            <element signature="e#345#346#0" expanded="true" />
+            <element signature="e#365#366#0" expanded="true" />
+            <element signature="e#398#399#0" expanded="true" />
+            <element signature="e#422#423#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jedisstudy/src/main/java/com/boco/ui/mapper/MapperMysql.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/bf0a1435-4546-46ec-afb0-14974949e8ca/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jedisstudy/src/main/java/com/boco/ui/mapper/MysqlDao.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="3" column="32" selection-end-line="7" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jedisstudy/src/main/java/com/boco/ui/service/MysqlTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#706#707#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jedisstudy/src/main/resources/oracleconnect.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="17" column="54" selection-start-line="17" selection-start-column="54" selection-end-line="17" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jedisstudy/src/main/java/com/boco/ui/mapper/MapperOracle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="2" column="29" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jedisstudy/src/main/java/com/boco/ui/mapper/OracleMapper.xml">
+      <provider editor-type-id="JavaFX-Scene-Builder" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="3" column="23" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jedisstudy/src/main/java/com/boco/ui/pojo/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
+          <folding>
+            <element signature="e#130#131#0" expanded="true" />
+            <element signature="e#153#154#0" expanded="true" />
+            <element signature="e#195#196#0" expanded="true" />
+            <element signature="e#225#226#0" expanded="true" />
+            <element signature="e#259#260#0" expanded="true" />
+            <element signature="e#284#285#0" expanded="true" />
+            <element signature="e#330#331#0" expanded="true" />
+            <element signature="e#364#365#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jedisstudy/src/main/java/com/boco/ui/dao/OracleConnect.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" column="42" selection-start-line="15" selection-start-column="42" selection-end-line="15" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jedisstudy/src/main/java/com/boco/ui/dao/MysqlConnect.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="30" column="5" selection-start-line="11" selection-start-column="4" selection-end-line="30" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#762#763#0" expanded="true" />
+            <element signature="e#822#823#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jedisstudy/src/main/resources/mysqlconnect.xml">
+      <provider editor-type-id="JavaFX-Scene-Builder" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloudquerystartthree/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="6" column="40" selection-start-line="6" selection-start-column="40" selection-end-line="6" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloudquerystarttwo/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="12" column="24" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloudquerystarttwo/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloudquerystartthree/src/main/java/com/boco/controller/Consumption.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="840">
+          <caret line="34" column="33" selection-start-line="34" selection-start-column="33" selection-end-line="34" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloudquerystarttwo/src/main/java/com/boco/AppService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#376#377#0" expanded="true" />
+            <element signature="e#436#437#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloudquerystarttwo/src/main/java/com/boco/controller/Apple.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloudquerystarttwocopy/src/main/java/com/boco/AppServiceCopy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#365#366#0" expanded="true" />
+            <element signature="e#429#430#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloudquerystarttwocopy/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="8" column="7" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloudquerystartthree/src/main/java/com/boco/AppConsumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="134">
+          <caret line="11" column="23" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#382#383#0" expanded="true" />
+            <element signature="e#443#444#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://bf0a1435-4546-46ec-afb0-14974949e8ca/schema/QINXIAOJIN/table/TEST">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloudquerystartone/src/main/java/com/boco/utils/JWTUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="19" column="38" selection-start-line="19" selection-start-column="38" selection-end-line="19" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$MAVEN_REPOSITORY$/com/oracle/database/jdbc/ojdbc8/21.1.0.0/ojdbc8-21.1.0.0.pom">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-312">
+          <caret line="19" column="11" selection-start-line="19" selection-start-column="11" selection-end-line="19" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloudquerystartone/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6">
+          <caret line="19" column="20" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/baomidou/mybatis-plus-core/3.2.0/mybatis-plus-core-3.2.0.jar!/com/baomidou/mybatisplus/core/mapper/Mapper.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/baomidou/mybatis-plus-core/3.2.0/mybatis-plus-core-3.2.0.jar!/com/baomidou/mybatisplus/core/mapper/BaseMapper.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="30" column="11" lean-forward="true" selection-start-line="30" selection-start-column="11" selection-end-line="30" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.13.RELEASE/spring-web-4.3.13.RELEASE-sources.jar!/org/springframework/web/method/support/InvocableHandlerMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="214" selection-start-line="214" selection-end-line="214" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/baomidou/mybatis-plus-core/3.2.0/mybatis-plus-core-3.2.0.jar!/com/baomidou/mybatisplus/core/override/MybatisMapperProxy.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="118">
+          <caret line="43" selection-start-line="43" selection-end-line="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/baomidou/mybatis-plus-core/3.2.0/mybatis-plus-core-3.2.0.jar!/com/baomidou/mybatisplus/core/override/MybatisMapperMethod.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis-spring/2.0.2/mybatis-spring-2.0.2.jar!/org/mybatis/spring/SqlSessionTemplate.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3600">
+          <caret line="171" selection-start-line="171" selection-end-line="171" />
+          <folding>
+            <element signature="e#6620#6621#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.5.2/mybatis-3.5.2.jar!/org/apache/ibatis/session/defaults/DefaultSqlSessionFactory.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1320">
+          <caret line="62" selection-start-line="62" selection-end-line="62" />
+          <folding>
+            <element signature="e#2561#2562#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloudquerystartone/src/main/java/com/boco/AppServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#535#536#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloudquerystartone/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2940">
+          <caret line="98" column="29" selection-start-line="98" selection-start-column="29" selection-end-line="98" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloudquerystartone/src/main/java/com/boco/entity/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" column="33" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloudquerystartone/src/test/java/com/boco/AppServerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1170">
+          <caret line="54" column="13" selection-start-line="54" selection-start-column="13" selection-end-line="54" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloudquerystartone/src/main/java/com/boco/utils/XLSXTable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="2" column="45" selection-start-line="2" selection-start-column="45" selection-end-line="2" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloudquerystartone/src/main/java/com/boco/controller/TestController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="25" column="24" selection-start-line="25" selection-start-column="24" selection-end-line="25" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloudquerystartone/src/main/java/com/boco/server/TestServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="7" column="27" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jedisstudy/src/main/java/com/boco/ui/service/OracleTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="284">
+          <caret line="15" column="31" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#281#297#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>springcloudquerystarttwo:war</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>springcloudquerystartone</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.6</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: antlr:antlr:2.7.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
